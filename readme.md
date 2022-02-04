@@ -137,115 +137,32 @@ Consorci AOC
 
 [33]:https://github.com/ConsorciAOC/SIR-2.0
 
-[VO-AEAT][34]	
-
-[34]:https://github.com/ConsorciAOC/VO-AEAT
-
-[VO-ANTECEDENTS_PENALS][35]	
-
-[35]:https://github.com/ConsorciAOC/VO-ANTECEDENTS_PENALS
-
-[VO-ATC][36]	
-
-[36]:https://github.com/ConsorciAOC/VO-ATC
-
-[VO-CADASTRE][37]	
-
-[37]:https://github.com/ConsorciAOC/VO-CADASTRE
-
-[VO-CORPME-REGISTRE_MERCANTIL][38]	
-
-[38]:https://github.com/ConsorciAOC/VO-CORPME-REGISTRE_MERCANTIL
-
-[VO-CORPME-REGISTRE_PROPIETAT][39]	
-
-[39]:https://github.com/ConsorciAOC/VO-CORPME-REGISTRE_PROPIETAT
-
-[VO-DCOC][40]	
-
-[40]:https://github.com/ConsorciAOC/VO-DCOC
-
-[VO-DEPENDENCIA][41]	
-
-[41]:https://github.com/ConsorciAOC/VO-DEPENDENCIA
-
-[VO-DGP][42]	
-
-[42]:https://github.com/ConsorciAOC/VO-DGP
-
-[VO-DGT][43]	
-
-[43]:https://github.com/ConsorciAOC/VO-DGT
-
-[VO-DGT-ATMV][44]	
-
-[44]:https://github.com/ConsorciAOC/VO-DGT-ATMV
-
-[VO-ESTRANGERIA][45]	
-
-[45]:https://github.com/ConsorciAOC/VO-ESTRANGERIA
-
-[VO-GRAU_DISCAPACITAT][46]	
-
-[46]:https://github.com/ConsorciAOC/VO-GRAU_DISCAPACITAT
-
-[VO-GRAU_DISCAPACITAT_CCAA][47]	
-
-[47]:https://github.com/ConsorciAOC/VO-GRAU_DISCAPACITAT_CCAA
-
-[VO-IGAE][48]	
-
-[48]:https://github.com/ConsorciAOC/VO-IGAE
-
-[VO-INSS][49]	
-
-[49]:https://github.com/ConsorciAOC/VO-INSS
-
-
-[VO-NOTARIS][50]	
-
-[50]:https://github.com/ConsorciAOC/VO-NOTARIS
-
-[VO-RCA][51]	
-
-[51]:https://github.com/ConsorciAOC/VO-RCA
-
-[VO-REG_ENTITATS][52]	
-
-[52]:https://github.com/ConsorciAOC/VO-REG_ENTITATS
-
-[VO-REGISTRE_CIVIL][53]	
-
-[53]:https://github.com/ConsorciAOC/VO-REGISTRE_CIVIL
-
-[VO-SEPE][54]	
-
-[54]:https://github.com/ConsorciAOC/VO-SEPE
-
-[VO-SOC][55]	
-
-[55]:https://github.com/ConsorciAOC/VO-SOC
-
-[VO-TFM][56]	
-
-[56]:https://github.com/ConsorciAOC/VO-TFM
-
-[VO-TFN][57]	
-
-[57]:https://github.com/ConsorciAOC/VO-TFN
-
-[VO-TFN_CCAA][58]	
-
-[58]:https://github.com/ConsorciAOC/VO-TFN_CCAA
-
-[VO-TGSS][59]	
-
-[59]:https://github.com/ConsorciAOC/VO-TGSS
-
-[VO-TGSS_VIDA_LABORAL][60]	
-
-[60]:https://github.com/ConsorciAOC/VO-TGSS_VIDA_LABORAL
-
-[VO-TITULACIONS][61]	
-
-[61]:https://github.com/ConsorciAOC/VO-TITULACIONS
+<details open><summary>VO</summary><br>
+<br><a href="https://github.com/ConsorciAOC/VO-AEAT">VO-AEAT</a>.</br>
+<br><a href="https://github.com/ConsorciAOC/VO-ANTECEDENTS_PENALS">VO-ANTECEDENTS_PENALS</a>.</br>
+<br><a href="https://github.com/ConsorciAOC/VO-ATC">VO-ATC</a>.</br>
+<br><a href="https://github.com/ConsorciAOC/VO-CADASTRE">VO-CADASTRE</a>.</br>
+<br><a href="https://github.com/ConsorciAOC/VO-CORPME-REGISTRE_MERCANTIL">VO-CORPME-REGISTRE_MERCANTIL</a>.</br>
+<br><a href="https://github.com/ConsorciAOC/VO-CORPME-REGISTRE_PROPIETAT">VO-CORPME-REGISTRE_PROPIETAT</a>.</br>
+<br><a href="https://github.com/ConsorciAOC/VO-DCOC">VO-DCOC</a>.</br>
+<br><a href="https://github.com/ConsorciAOC/VO-DEPENDENCIA">VO-DEPENDENCIA</a>.</br>
+<br><a href="https://github.com/ConsorciAOC/VO-DGP">VO-DGP</a>.</br>
+<br><a href="https://github.com/ConsorciAOC/VO-DGT">VO-DGT</a>.</br>
+<br><a href="https://github.com/ConsorciAOC/VO-DGT-ATMV">VO-DGT-ATMV</a>.</br>
+<br><a href="https://github.com/ConsorciAOC/VO-ESTRANGERIA">VO-ESTRANGERIA</a>.</br>
+<br><a href="https://github.com/ConsorciAOC/VO-GRAU_DISCAPACITAT">VO-GRAU_DISCAPACITAT</a>.</br>
+<br><a href="https://github.com/ConsorciAOC/VO-GRAU_DISCAPACITAT_CCAA">VO-GRAU_DISCAPACITAT_CCAA</a>.</br>
+<br><a href="https://github.com/ConsorciAOC/VO-IGAE">VO-IGAE</a>.</br>
+<br><a href="https://github.com/ConsorciAOC/VO-INSS">VO-INSS</a>.</br>
+<br><a href="https://github.com/ConsorciAOC/VO-NOTARIS">VO-NOTARIS</a>.</br>
+<br><a href="https://github.com/ConsorciAOC/VO-RCA">VO-RCA</a>.</br>
+<br><a href="https://github.com/ConsorciAOC/VO-REG_ENTITATS">VO-REG_ENTITATS</a>.</br>
+<br><a href="https://github.com/ConsorciAOC/VO-REGISTRE_CIVIL">VO-REGISTRE_CIVIL</a>.</br>
+<br><a href="https://github.com/ConsorciAOC/VO-SEPE">VO-SEPE</a>.</br>
+<br><a href="https://github.com/ConsorciAOC/VO-SOC">VO-SOC</a>.</br>
+<br><a href="https://github.com/ConsorciAOC/VO-TFM">VO-TFM</a>.</br>
+<br><a href="https://github.com/ConsorciAOC/VO-TFN">VO-TFN</a>.</br>
+<br><a href="https://github.com/ConsorciAOC/VO-TFN_CCAA">VO-TFN_CCAA</a>.</br>
+<br><a href="https://github.com/ConsorciAOC/VO-TGSS">VO-TGSS</a>.</br>
+<br><a href="https://github.com/ConsorciAOC/VO-TGSS_VIDA_LABORAL">VO-TGSS_VIDA_LABORAL</a>.</br>
+<br><a href="https://github.com/ConsorciAOC/VO-TITULACIONS">VO-TITULACIONS</a>.</br>
