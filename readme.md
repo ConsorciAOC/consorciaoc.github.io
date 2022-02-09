@@ -1,7 +1,41 @@
 # Consorci AOC
 
-### En aquesta plana trobarem els diferents DI dels serveis integrables oferts pels Consorci AOC
+**En aquesta plana trobarem els diferents DI dels serveis integrables oferts pel Consorci AOC**
 
+
+
+## Relacions amb la ciutadania i empresa
+
+|Servei|Descripció|
+|---|---|
+|[**eNotum**][9] | notificació electrònica |
+|[**eFact**][8]	| factura electrònica |
+|[**eTRAM**][34]|  tràmits en línia|
+|[**Representa**][28] | gestor de representacions|
+|[**FUE**][13]	| per a la tramitació d’activitats empresarials|
+
+[13]:https://github.com/ConsorciAOC/FUE
+[28]:https://github.com/ConsorciAOC/Representa
+[8]:https://github.com/ConsorciAOC/eFact
+[9]:https://github.com/ConsorciAOC/eNotum
+[34]:hhtps://google.es
+
+
+
+----------------------------------------------------------------------
+
+## Identitat digital i signatura electrònica
+
+|Servei|Descripció|
+|---|---|
+|
+----------------------------------------------------------------------
+
+## Integració servei i Suport a la integració
+
+|Servei|Descripció|
+|---|---|
+|
 
 
 [**Applet-de-signatura**][1]
@@ -133,7 +167,7 @@
 [33]:https://github.com/ConsorciAOC/SIR-2.0
 
 <details close>
-<summary><b>Via Oberta</b></summary><br>
+<summary><b>Via Oberta</b></summary>
 <br><a href="https://github.com/ConsorciAOC/VO-AEAT">VO-AEAT</a>
 <br><a href="https://github.com/ConsorciAOC/VO-ANTECEDENTS_PENALS">VO-ANTECEDENTS_PENALS</a>
 <br><a href="https://github.com/ConsorciAOC/VO-ATC">VO-ATC</a>
