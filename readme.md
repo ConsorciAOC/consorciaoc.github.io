@@ -1,143 +1,138 @@
-Consorci AOC
+# Consorci AOC
+
+### En aquesta plana trobarem els diferents DI dels serveis integrables oferts pels Consorci AOC
 
 
-<details open>
-<summary>Applet-de-signatura</summary><br><a href="https://github.com/ConsorciAOC/Applet-de-signatura">Applet-de-signatura</a>.</details></br>
 
-
-[Applet-de-signatura][1]
+[**Applet-de-signatura**][1]
 
 [1]:https://github.com/ConsorciAOC/Applet-de-signatura
 
-[BOE][2]
+[**BOE**][2]
 
 [2]:https://github.com/ConsorciAOC/BOE
 
-[browser-support][3]
+[**browser-support**][3]
 
 [3]:https://github.com/ConsorciAOC/browser-support
 
-[client-exemple-pci][4]
+[**client-exemple-pci**][4]
 
 [4]:https://github.com/ConsorciAOC/client-exemple-pci
 
-[Decidim-Catalunya][5]
+[**Decidim-Catalunya**][5]
 
 [5]:https://github.com/ConsorciAOC/Decidim-Catalunya
 
-[DESA-L][6]	
+[**DESA-L**][6]	
 
 [6]:https://github.com/ConsorciAOC/DESA-L
 
-[DOGC][7]	
+[**DOGC**][7]	
 
 [7]:https://github.com/ConsorciAOC/DOGC
 
-[eFact][8]	
+[**eFact**][8]	
 
 [8]:https://github.com/ConsorciAOC/eFact
 
-[eNotum][9]	
+[**eNotum**][9]	
 
 [9]:https://github.com/ConsorciAOC/eNotum
 
-[eNotumLite][10]	
+[**eNotumLite**][10]	
 
 [10]:https://github.com/ConsorciAOC/eNotumLite
 
-[ERES-2.0][11]	
+[**ERES-2.0**][11]	
 
 [11]:https://github.com/ConsorciAOC/ERES-2.0
 
-[e-TAULER][12]	
+[**e-TAULER**][12]	
 
 [12]:https://github.com/ConsorciAOC/e-TAULER
 
-[FUE][13]	
+[**FUE**][13]	
 
 [13]:https://github.com/ConsorciAOC/FUE
 
-[Hestia][14]	
+[**Hestia**][14]	
 
 [14]:https://github.com/ConsorciAOC/Hestia
 
-[Homologacio-Serveis][15]	
+[**Homologacio-Serveis**][15]	
 
 [15]:https://github.com/ConsorciAOC/Homologacio-Serveis
 
-[HubCarpetes][16]	
+[**HubCarpetes**][16]	
 
 [16]:https://github.com/ConsorciAOC/HubCarpetes
 
-[iArxiu][17]	
+[**iArxiu**][17]	
 
 [17]:https://github.com/ConsorciAOC/iArxiu
 
-[IDP][18]	
+[**IDP**][18]	
 
 [18]:https://github.com/ConsorciAOC/IDP
 
-[Integracio-AOC-SOAPUI][19]	
+[**Integracio-AOC-SOAPUI**][19]	
 
 [19]:https://github.com/ConsorciAOC/Integracio-AOC-SOAPUI
 
-[Integracio-Serveis][20]	
+[**Integracio-Serveis**][20]	
 
 [20]:https://github.com/ConsorciAOC/Integracio-Serveis
 
-[MC_EACAT][21]	
+[**MC_EACAT**][21]	
 
 [21]:https://github.com/ConsorciAOC/MC_EACAT
 
-[OVER][22]	
+[**OVER**][22]	
 
 [22]:https://github.com/ConsorciAOC/OVER
 
-[PADRO][23]	
+[**PADRO**][23]	
 
 [23]:https://github.com/ConsorciAOC/PADRO
 
-[PADRO_HISTORIC][24]	
+[**PADRO_HISTORIC**][24]	
 
 [24]:https://github.com/ConsorciAOC/PADRO_HISTORIC
 
-[PCI][25]	
+[**PCI**][25]	
 
 [25]:https://github.com/ConsorciAOC/PCI
 
-[PCI][26]	
-
-[26]:https://github.com/ConsorciAOC/PCI
-
-[PSCP][27]	
+[**PSCP**][27]	
 
 [27]:https://github.com/ConsorciAOC/PSCP
 
-[Representa][28]	
+[**Representa**][28]	
 
 [28]:https://github.com/ConsorciAOC/Representa
 
-[RPC][29]	
+[**RPC**][29]	
 
 [29]:https://github.com/ConsorciAOC/RPC
 
-[SCT-DEV][30]	
+[**SCT-DEV**][30]	
 
 [30]:https://github.com/ConsorciAOC/SCT-DEV
 
-[SCT-PDA][31]	
+[**SCT-PDA**][31]	
 
 [31]:https://github.com/ConsorciAOC/SCT-PDA
 
-[signador][32]	
+[**signador**][32]	
 
 [32]:https://github.com/ConsorciAOC/signador
 
-[SIR-2.0][33]	
+[**SIR-2.0**][33]	
 
 [33]:https://github.com/ConsorciAOC/SIR-2.0
 
-<details open>
+<details close>
 <summary><b>Via Oberta</b></summary><br>
 <br><a href="https://github.com/ConsorciAOC/VO-AEAT">VO-AEAT</a>
 <br><a href="https://github.com/ConsorciAOC/VO-ANTECEDENTS_PENALS">VO-ANTECEDENTS_PENALS</a>
