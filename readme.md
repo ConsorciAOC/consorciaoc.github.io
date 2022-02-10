@@ -28,14 +28,52 @@
 
 |Servei|Descripció|
 |---|---|
-|
+|[**Signador**][32]|  Eina de signatura electrònica per a entorns web|
+
+
+[32]:https://github.com/ConsorciAOC/signador
+----------------------------------------------------------------------
+
+## Transparència i govern obert
+
+|Servei|Descripció|
+|---|---|
+|[**e-TAULER**][12]	|Tauler d’anuncis electrònic|
+
+[12]:https://github.com/ConsorciAOC/e-TAULER
+
+
 ----------------------------------------------------------------------
 
 ## Integració servei i Suport a la integració
 
 |Servei|Descripció|
 |---|---|
-|
+|[**client-exemple-pci**][4]||
+|[**Homologacio-Serveis**][15]||
+|[**Integracio-AOC-SOAPUI**][19]||	
+|[**Integracio-Serveis**][20]||
+|[**PCI**][25]||
+
+[25]:https://github.com/ConsorciAOC/PCI
+[19]:https://github.com/ConsorciAOC/Integracio-AOC-SOAPUI
+[20]:https://github.com/ConsorciAOC/Integracio-Serveis
+[15]:https://github.com/ConsorciAOC/Homologacio-Serveis
+[4]:https://github.com/ConsorciAOC/client-exemple-pci
+
+----------------------------------------------------------------------
+
+## FAQs
+
+|Servei|Descripció|
+|---|---|
+|[**Applet-de-signatura**][1]|En aquest repositori podeu trobar els JARs de l'útlima versió alliberada de l'applet.|
+|[**browser-support**][3]|A quins navegadors donem suport?|
+
+[3]:https://github.com/ConsorciAOC/browser-support
+[1]:https://github.com/ConsorciAOC/Applet-de-signatura
+
+----------------------------------------------------------------------
 
 
 [**Applet-de-signatura**][1]
