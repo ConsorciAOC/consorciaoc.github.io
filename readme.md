@@ -45,25 +45,78 @@
 
 
 ----------------------------------------------------------------------
+## Contractació
+
+|Servei|Descripció|
+|---|---|
+|[**PSCP**][27]|plataforma de Serveis de Contractació Pública|
+|[**RPC**][29]|registre de contractes|
+
+[29]:https://github.com/ConsorciAOC/RPC
+[27]:https://github.com/ConsorciAOC/PSCP
+
+
+----------------------------------------------------------------------
+## Relació entre administracions
+
+|Servei|Descripció|
+|---|---|
+|[**MC_EACAT**][21]|servei de consulta de dades d’EACAT|
+|[**OVER**][22] |Oficina Virtual d'Emissió i Recepció|
+|[**SIR-2.0**][33]|Sistema d'interconnexió de Registres|
+|<details close><summary><b>Via Oberta</b></summary><br><a href="https://github.com/ConsorciAOC/VO-AEAT">VO-AEAT</a><br><a href="https://github.com/ConsorciAOC/VO-ANTECEDENTS_PENALS">VO-ANTECEDENTS_PENALS</a><br><a href="https://github.com/ConsorciAOC/VO-ATC">VO-ATC</a><br><a href="https://github.com/ConsorciAOC/VO-CADASTRE">VO-CADASTRE</a><br><a href="https://github.com/ConsorciAOC/VO-CORPME-REGISTRE_MERCANTIL">VO-CORPME-REGISTRE_MERCANTIL</a><br><a href="https://github.com/ConsorciAOC/VO-CORPME-REGISTRE_PROPIETAT">VO-CORPME-REGISTRE_PROPIETAT</a><br><a href="https://github.com/ConsorciAOC/VO-DCOC">VO-DCOC</a><br><a href="https://github.com/ConsorciAOC/VO-DEPENDENCIA">VO-DEPENDENCIA</a><br><a href="https://github.com/ConsorciAOC/VO-DGP">VO-DGP</a><br><a href="https://github.com/ConsorciAOC/VO-DGT">VO-DGT</a><br><a href="https://github.com/ConsorciAOC/VO-DGT-ATMV">VO-DGT-ATMV</a><br><a href="https://github.com/ConsorciAOC/VO-ESTRANGERIA">VO-ESTRANGERIA</a><br><a href="https://github.com/ConsorciAOC/VO-GRAU_DISCAPACITAT">VO-GRAU_DISCAPACITAT</a><br><a href="https://github.com/ConsorciAOC/VO-GRAU_DISCAPACITAT_CCAA">VO-GRAU_DISCAPACITAT_CCAA</a><br><a href="https://github.com/ConsorciAOC/VO-IGAE">VO-IGAE</a><br><a href="https://github.com/ConsorciAOC/VO-INSS">VO-INSS</a><br><a href="https://github.com/ConsorciAOC/VO-NOTARIS">VO-NOTARIS</a><br><a href="https://github.com/ConsorciAOC/VO-RCA">VO-RCA</a><br><a href="https://github.com/ConsorciAOC/VO-REG_ENTITATS">VO-REG_ENTITATS</a><br><a href="https://github.com/ConsorciAOC/VO-REGISTRE_CIVIL">VO-REGISTRE_CIVIL</a><br><a href="https://github.com/ConsorciAOC/VO-SEPE">VO-SEPE</a><br><a href="https://github.com/ConsorciAOC/VO-SOC">VO-SOC</a><br><a href="https://github.com/ConsorciAOC/VO-TFM">VO-TFM</a><br><a href="https://github.com/ConsorciAOC/VO-TFN">VO-TFN</a><br><a href="https://github.com/ConsorciAOC/VO-TFN_CCAA">VO-TFN_CCAA</a><br><a href="https://github.com/ConsorciAOC/VO-TGSS">VO-TGSS</a><br><a href="https://github.com/ConsorciAOC/VO-TGSS_VIDA_LABORAL">VO-TGSS_VIDA_LABORAL</a><br><a href="https://github.com/ConsorciAOC/VO-TITULACIONS">VO-TITULACIONS</a>|intercanvi de dades entre administracions|
+
+[33]:https://github.com/ConsorciAOC/SIR-2.0
+[22]:https://github.com/ConsorciAOC/OVER
+[21]:https://github.com/ConsorciAOC/MC_EACAT
+
+
+----------------------------------------------------------------------
+## Serveis socials
+
+|Servei|Descripció|
+|---|---|
+|[**MC_EACAT**][21]|servei de consulta de dades d’EACAT|
+|[**OVER**][22] |Oficina Virtual d'Emissió i Recepció|
+|[**SIR-2.0**][33]|Sistema d'interconnexió de Registres|
+
+[33]:https://github.com/ConsorciAOC/SIR-2.0
+[22]:https://github.com/ConsorciAOC/OVER
+[21]:https://github.com/ConsorciAOC/MC_EACAT
+
+
+----------------------------------------------------------------------
+## Gestió documental
+
+|Servei|Descripció|
+|---|---|
+|[**DESA-L**][6]|repositori d’expedients/documents en tràmit|	
+|[**iArxiu**][17] |preservació i arxiu electrònic|	
+
+[17]:https://github.com/ConsorciAOC/iArxiu
+[6]:https://github.com/ConsorciAOC/DESA-L
+
+
+----------------------------------------------------------------------
+## Registre
+
+|Servei|Descripció|
+|---|---|
+|[**ERES-2.0**][11]|registre d’entrada i sortida|
+
+[11]:https://github.com/ConsorciAOC/ERES-2.0	
+
+----------------------------------------------------------------------
 
 ## Integració servei i Suport a la integració
 
 |Servei|Descripció|
 |---|---|
-|[**client-exemple-pci**][4]||
-|[**Homologacio-Serveis**][15]||
-|[**Integracio-AOC-SOAPUI**][19]||	
-|[**Integracio-Serveis**][20]||
-|[**PCI**][25]||
+|[**Hestia**][14]| gestió de serveis socials|
 
-[25]:https://github.com/ConsorciAOC/PCI
-[19]:https://github.com/ConsorciAOC/Integracio-AOC-SOAPUI
-[20]:https://github.com/ConsorciAOC/Integracio-Serveis
-[15]:https://github.com/ConsorciAOC/Homologacio-Serveis
-[4]:https://github.com/ConsorciAOC/client-exemple-pci
+[14]:https://github.com/ConsorciAOC/Hestia
 
 ----------------------------------------------------------------------
-
 ## FAQs
 
 |Servei|Descripció|
