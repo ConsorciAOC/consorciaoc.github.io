@@ -152,163 +152,78 @@
 [1]:https://github.com/ConsorciAOC/Applet-de-signatura
 
 ----------------------------------------------------------------------
-
-
-[**Applet-de-signatura**][1]
-
-[1]:https://github.com/ConsorciAOC/Applet-de-signatura
-
-[**BOE**][2]
-
-[2]:https://github.com/ConsorciAOC/BOE
-
-[**browser-support**][3]
-
-[3]:https://github.com/ConsorciAOC/browser-support
-
-[**client-exemple-pci**][4]
-
-[4]:https://github.com/ConsorciAOC/client-exemple-pci
-
-[**Decidim-Catalunya**][5]
-
-[5]:https://github.com/ConsorciAOC/Decidim-Catalunya
-
-[**DESA-L**][6]	
-
-[6]:https://github.com/ConsorciAOC/DESA-L
-
-[**DOGC**][7]	
-
-[7]:https://github.com/ConsorciAOC/DOGC
-
-[**eFact**][8]	
-
-[8]:https://github.com/ConsorciAOC/eFact
-
-[**eNotum**][9]	
-
-[9]:https://github.com/ConsorciAOC/eNotum
-
-[**eNotumLite**][10]	
-
-[10]:https://github.com/ConsorciAOC/eNotumLite
-
-[**ERES-2.0**][11]	
-
-[11]:https://github.com/ConsorciAOC/ERES-2.0
-
-[**e-TAULER**][12]	
-
-[12]:https://github.com/ConsorciAOC/e-TAULER
-
-[**FUE**][13]	
-
-[13]:https://github.com/ConsorciAOC/FUE
-
-[**Hestia**][14]	
-
-[14]:https://github.com/ConsorciAOC/Hestia
-
-[**Homologacio-Serveis**][15]	
-
-[15]:https://github.com/ConsorciAOC/Homologacio-Serveis
-
-[**HubCarpetes**][16]	
-
-[16]:https://github.com/ConsorciAOC/HubCarpetes
-
-[**iArxiu**][17]	
-
-[17]:https://github.com/ConsorciAOC/iArxiu
-
-[**IDP**][18]	
-
-[18]:https://github.com/ConsorciAOC/IDP
-
-[**Integracio-AOC-SOAPUI**][19]	
-
-[19]:https://github.com/ConsorciAOC/Integracio-AOC-SOAPUI
-
-[**Integracio-Serveis**][20]	
-
-[20]:https://github.com/ConsorciAOC/Integracio-Serveis
-
-[**MC_EACAT**][21]	
-
-[21]:https://github.com/ConsorciAOC/MC_EACAT
-
-[**OVER**][22]	
-
-[22]:https://github.com/ConsorciAOC/OVER
-
-[**PADRO**][23]	
-
-[23]:https://github.com/ConsorciAOC/PADRO
-
-[**PADRO_HISTORIC**][24]	
-
-[24]:https://github.com/ConsorciAOC/PADRO_HISTORIC
-
-[**PCI**][25]	
-
-[25]:https://github.com/ConsorciAOC/PCI
-
-[**PSCP**][27]	
-
-[27]:https://github.com/ConsorciAOC/PSCP
-
-[**Representa**][28]	
-
-[28]:https://github.com/ConsorciAOC/Representa
-
-[**RPC**][29]	
-
-[29]:https://github.com/ConsorciAOC/RPC
-
-[**SCT-DEV**][30]	
-
-[30]:https://github.com/ConsorciAOC/SCT-DEV
-
-[**SCT-PDA**][31]	
-
-[31]:https://github.com/ConsorciAOC/SCT-PDA
-
-[**signador**][32]	
-
-[32]:https://github.com/ConsorciAOC/signador
-
-[**SIR-2.0**][33]	
-
-[33]:https://github.com/ConsorciAOC/SIR-2.0
-
-<details close>
-<summary><b>Via Oberta</b></summary>
-<br><a href="https://github.com/ConsorciAOC/VO-AEAT">VO-AEAT</a>
-<br><a href="https://github.com/ConsorciAOC/VO-ANTECEDENTS_PENALS">VO-ANTECEDENTS_PENALS</a>
-<br><a href="https://github.com/ConsorciAOC/VO-ATC">VO-ATC</a>
-<br><a href="https://github.com/ConsorciAOC/VO-CADASTRE">VO-CADASTRE</a>
-<br><a href="https://github.com/ConsorciAOC/VO-CORPME-REGISTRE_MERCANTIL">VO-CORPME-REGISTRE_MERCANTIL</a>
-<br><a href="https://github.com/ConsorciAOC/VO-CORPME-REGISTRE_PROPIETAT">VO-CORPME-REGISTRE_PROPIETAT</a>
-<br><a href="https://github.com/ConsorciAOC/VO-DCOC">VO-DCOC</a>
-<br><a href="https://github.com/ConsorciAOC/VO-DEPENDENCIA">VO-DEPENDENCIA</a>
-<br><a href="https://github.com/ConsorciAOC/VO-DGP">VO-DGP</a>
-<br><a href="https://github.com/ConsorciAOC/VO-DGT">VO-DGT</a>
-<br><a href="https://github.com/ConsorciAOC/VO-DGT-ATMV">VO-DGT-ATMV</a>
-<br><a href="https://github.com/ConsorciAOC/VO-ESTRANGERIA">VO-ESTRANGERIA</a>
-<br><a href="https://github.com/ConsorciAOC/VO-GRAU_DISCAPACITAT">VO-GRAU_DISCAPACITAT</a>
-<br><a href="https://github.com/ConsorciAOC/VO-GRAU_DISCAPACITAT_CCAA">VO-GRAU_DISCAPACITAT_CCAA</a>
-<br><a href="https://github.com/ConsorciAOC/VO-IGAE">VO-IGAE</a>
-<br><a href="https://github.com/ConsorciAOC/VO-INSS">VO-INSS</a>
-<br><a href="https://github.com/ConsorciAOC/VO-NOTARIS">VO-NOTARIS</a>
-<br><a href="https://github.com/ConsorciAOC/VO-RCA">VO-RCA</a>
-<br><a href="https://github.com/ConsorciAOC/VO-REG_ENTITATS">VO-REG_ENTITATS</a>
-<br><a href="https://github.com/ConsorciAOC/VO-REGISTRE_CIVIL">VO-REGISTRE_CIVIL</a>
-<br><a href="https://github.com/ConsorciAOC/VO-SEPE">VO-SEPE</a>
-<br><a href="https://github.com/ConsorciAOC/VO-SOC">VO-SOC</a>
-<br><a href="https://github.com/ConsorciAOC/VO-TFM">VO-TFM</a>
-<br><a href="https://github.com/ConsorciAOC/VO-TFN">VO-TFN</a>
-<br><a href="https://github.com/ConsorciAOC/VO-TFN_CCAA">VO-TFN_CCAA</a>
-<br><a href="https://github.com/ConsorciAOC/VO-TGSS">VO-TGSS</a>
-<br><a href="https://github.com/ConsorciAOC/VO-TGSS_VIDA_LABORAL">VO-TGSS_VIDA_LABORAL</a>
-<br><a href="https://github.com/ConsorciAOC/VO-TITULACIONS">VO-TITULACIONS</a>
+<footer>
+	<div class="top-footer">
+		<div class="container">
+			<div class="top-footer__content">
+				<div class="bloc-menu-aoc bloc-menu">
+				<p class="h3 bloc-menu__title" style="text-align:justify">El consorci aoc</p>
+					<div class="bloc-menu_menu"><ul id="menu-footer_menu_1" class="menu"><li id="menu-item-1000266093" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1000266093"><a href="https://www.aoc.cat/que-es-el-consorci-aoc/">Què és el Consorci AOC</a></li>
+<li id="menu-item-1000266095" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1000266095"><a href="https://www.aoc.cat/convocatories-de-personal/">Treballa amb nosaltres</a></li>
+<li id="menu-item-1000266099" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1000266099"><a href="https://www.aoc.cat/wp-content/uploads/2015/11/estatutsaoc.pdf?x75273">Estatuts AOC</a></li>
+<li id="menu-item-1000266091" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1000266091"><a href="https://www.aoc.cat/organigrama/">Organigrama</a></li>
+<li id="menu-item-1000266090" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1000266090"><a href="https://www.aoc.cat/convenis/">Convenis</a></li>
+<li id="menu-item-1000266100" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1000266100"><a href="https://www.seu-e.cat/web/consorciaoc">Seu electrònica</a></li>
+<li id="menu-item-1000266089" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1000266089"><a href="https://www.aoc.cat/memories/">Memòries i informes corporatius</a></li>
+<li id="menu-item-1000266088" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1000266088"><a href="https://www.aoc.cat/contacte/">Contacte</a></li>
+</ul></div>				</div>
+				<div class="bloc-menu-serveis bloc-menu">
+				<p class="h3 bloc-menu__title" style="text-align:justify">Serveis i solucions</p>
+					<div class="nav_menu-3"><ul id="menu-footer_menu_2" class="menu"><li id="menu-item-1000266097" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-7 current_page_item menu-item-1000266097"><a href="https://www.aoc.cat/serveis/" aria-current="page">Serveis</a></li>
+<li id="menu-item-1000294575" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1000294575"><a href="https://www.aoc.cat/estatserveis/">Estat dels serveis</a></li>
+<li id="menu-item-1000266106" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1000266106"><a href="http://millorem.aoc.cat/">Suggeriments</a></li>
+<li id="menu-item-1000266112" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1000266112"><a href="https://www.aoc.cat/condicions-de-prestacio-dels-serveis/">Condicions de prestació dels serveis</a></li>
+<li id="menu-item-1000281851" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1000281851"><a target="_blank" rel="noopener" href="https://campus.aoc.cat/">Campus de formació</a></li>
+</ul></div>				</div>	
+				<div class="bloc-menu-dades-obertes bloc-menu">
+				<p class="h3 bloc-menu__title" style="text-align:justify">Dades obertes</p>
+					<div class="menu-footer_menu_3-container"><ul id="menu-footer_menu_3" class="menu"><li id="menu-item-1000281840" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1000281840"><a href="https://dadesobertes.seu-e.cat/group/f0d11995-550a-4950-8d64-0601141b1ad4?_organization_limit=0&amp;organization=global">Dades obertes AOC i ens locals</a></li>
+</ul></div>				</div>	
+				<div class="bloc-menu-xarxes-socials bloc-menu">
+				<p class="h3 bloc-menu__title" style="text-align:justify">xarxes socials</p>
+					<div class="menu-footer_menu_4-container"><ul id="menu-footer_menu_4" class="menu"><li id="menu-item-1000266101" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1000266101"><a href="https://twitter.com/consorciAOC">Twitter</a></li>
+<li id="menu-item-1000266102" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1000266102"><a href="https://www.linkedin.com/company/consorci-aoc_2/">LinkedIn</a></li>
+<li id="menu-item-1000266103" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1000266103"><a href="https://www.youtube.com/user/consorciAOC">YouTube</a></li>
+<li id="menu-item-1000266104" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1000266104"><a href="https://es.slideshare.net/consorciaoc">Slideshare</a></li>
+<li id="menu-item-1000266105" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1000266105"><a href="https://www.instagram.com/consorciaoc/">Instagram</a></li>
+<li id="menu-item-1000286388" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1000286388"><a href="https://www.flickr.com/photos/159445951@N05/">Flickr</a></li>
+</ul></div>				</div>
+				<div class="bloc-menu-xarxes-socials bloc-menu">
+				<p class="h3 bloc-menu__title" style="text-align:justify">Connectem</p>
+					<span>La selecció de l'actualitat d'Administració Oberta a la vostra safata.</span>
+					<div class="button-footer"><a class="suscribe-button button" href="https://aoc.us7.list-manage.com/subscribe?u=43419c8cfdaf33f008003b624&amp;id=6dab3def40">Subscriu-te al blog</a></div>
+				</div>	
+				<div class="bloc-menu-comunicacio bloc-menu">
+				<p class="h3 bloc-menu__title" style="text-align:justify">Comunicació</p>
+					<div class="menu-footer_menu_5-container"><ul id="menu-footer_menu_5" class="menu"><li id="menu-item-1000266117" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1000266117"><a href="https://www.aoc.cat/imatge-corporativa/">Imatge corporativa</a></li>
+<li id="menu-item-1000285697" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1000285697"><a href="https://www.aoc.cat/reconeixements-home/">Reconeixements Administració Oberta</a></li>
+</ul></div>				</div>	
+			</div>
+		</div>
+	</div>
+	<div class="bottom-footer">
+		<div class="container">
+			<div class="bottom-footer__content row">
+				<div class="col-7">
+					<p class="copyright">© Consorci Administració Oberta de Catalunya (Consorci AOC). Tots els drets reservats.</p>
+					<div class="d-flex">
+						<a style="margin-right: 0.25rem; padding-right: 0.5rem; line-height: 1; color: #c94010; border-right: 1px solid #545454;" href="/avis-legal/">Avís legal</a>
+						<a style="margin-right: 0.25rem; padding-right: 0.5rem; line-height: 1; color: #c94010; border-right: 1px solid #545454;" href="/accessibilitat/">Accessibilitat</a>
+						<a style="margin-right: 0.25rem; padding-right: 0.5rem; line-height: 1; color: #c94010;" href="/politica-de-cookies/">Política de cookies</a>
+					</div>
+				</div>
+				<div class="col-5 d-flex">
+					<a href="https://web.gencat.cat/ca/" target="_blank" class="g-logo g-logo-helium" style="display:inline-block; height: 36px;">
+						<img src="/wp-content/uploads/2019/12/generalitat.png" alt="Gencat" style="height: 23px; margin: 0px 20px;">
+					</a>
+					<a href="https://www.localret.cat" target="_blank" class="g-logo g-logo-helium" style="display:inline-block; height: 36px;">
+						<img src="/wp-content/uploads/2019/12/localret.png" alt="Localret" style="height: 18px; margin: 0px 20px;">
+					</a>
+					<a href="http://fonseuropeus.gencat.cat/ca/" target="_blank" class="g-logo g-logo-helium">
+						<img src="/wp-content/uploads/2019/12/feder.png" alt="Fons europeu" style="height: 20px; margin: 0px 20px;">
+					</a>
+				</div>
+			</div>
+		</div>
+	</div>
+</footer>
