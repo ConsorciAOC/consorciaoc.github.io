@@ -1,1 +1,6 @@
 theme: jekyll-theme-cayman
+title: Consorci AOC
+description: En aquesta plana trobarem els diferents DI dels serveis integrables oferts pel Consorci AOC
+markdown: GFM
+plugins:
+  - jemoji
