@@ -9,17 +9,17 @@
 |[**eNotum**][9] | Notificació electrònica |
 |[**eNotumLite**][10]|Notificació electrònica|
 |[**eFact**][8]	|Factura electrònica |
-|[**eTRAM**][34]|Tràmits en línia|
+|[**eTRAM**][34]|Tràmits en línia (pendent)|
 |[**Representa**][28] |Gestor de representacions|
 |[**FUE**][13]	|Per a la tramitació d’activitats empresarials|
 [**HubCarpetes**][16]|Projecte de documentació per als integradors del Hub de Carpetes Ciutadanes (HCC) del Consorci AOC|
 
-[16]:https://github.com/ConsorciAOC/HubCarpetes
+[16]:https://consorciaoc.github.io/HubCarpetes/
 [10]:https://github.com/ConsorciAOC/eNotumLite
 [13]:https://github.com/ConsorciAOC/FUE
-[28]:https://github.com/ConsorciAOC/Representa
-[8]:https://github.com/ConsorciAOC/eFact
-[9]:https://github.com/ConsorciAOC/eNotum
+[28]:https://consorciaoc.github.io/Representa/
+[8]:https://consorciaoc.github.io/eFact/
+[9]:https://consorciaoc.github.io/eNotum/
 [34]:hhtps://google.es
 
 
@@ -33,7 +33,7 @@
 |[**Signador**][32] |Eina de signatura electrònica per a entorns web|
 
 
-[32]:https://github.com/ConsorciAOC/signador
+[32]:https://consorciaoc.github.io/signador/
 
 ----------------------------------------------------------------------
 
@@ -96,7 +96,7 @@
 |---|---|
 |[**Hestia**][14]|Gestió de serveis socials|
 
-[14]:https://github.com/ConsorciAOC/Hestia
+[14]:https://consorciaoc.github.io/Hestia/
 
 
 ----------------------------------------------------------------------
@@ -107,7 +107,7 @@
 |[**DESA-L**][6]|Repositori d’expedients/documents en tràmit|	
 |[**iArxiu**][17] |Preservació i arxiu electrònic|	
 
-[17]:https://github.com/ConsorciAOC/iArxiu
+[17]:https://consorciaoc.github.io/iArxiu/
 [6]:https://github.com/ConsorciAOC/DESA-L
 
 
@@ -133,9 +133,9 @@
 |[**PCI**][25]|DI de la PCI|	
 
 [25]:https://github.com/ConsorciAOC/PCI
-[19]:https://github.com/ConsorciAOC/Integracio-AOC-SOAPUI
+[19]:https://consorciaoc.github.io/Integracio-AOC-SOAPUI/
 [20]:https://github.com/ConsorciAOC/Integracio-Serveis
-[15]:https://github.com/ConsorciAOC/Homologacio-Serveis
+[15]:https://consorciaoc.github.io/Homologacio-Serveis/
 [4]:https://github.com/ConsorciAOC/client-exemple-pci
 
 ----------------------------------------------------------------------
@@ -146,6 +146,6 @@
 |[**Applet-de-signatura**][1]|En aquest repositori podeu trobar els JARs de l'útlima versió alliberada de l'applet.|
 |[**browser-support**][3]|A quins navegadors donem suport?|
 
-[3]:https://github.com/ConsorciAOC/browser-support
+[3]:https://consorciaoc.github.io/browser-support/
 [1]:https://github.com/ConsorciAOC/Applet-de-signatura
 
