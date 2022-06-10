@@ -14,10 +14,10 @@
 |[**FUE**][13]	|Per a la tramitació d’activitats empresarials|
 [**HubCarpetes**][16]|Projecte de documentació per als integradors del Hub de Carpetes Ciutadanes (HCC) del Consorci AOC|
 
-[16]:https://consorciaoc.github.io/HubCarpetes/
+[16]:https://github.com/ConsorciAOC/hubcarpetes_documentacio
 [10]:https://github.com/ConsorciAOC/eNotumLite
 [13]:https://github.com/ConsorciAOC/FUE
-[28]:https://consorciaoc.github.io/Representa/
+[28]:https://github.com/ConsorciAOC/representa_documentacio
 [8]:https://consorciaoc.github.io/eFact/
 [9]:https://consorciaoc.github.io/eNotum/
 [34]:https://github.com/ConsorciAOC/eTRAM/
@@ -107,7 +107,7 @@
 |[**DESA-L**][6]|Repositori d’expedients/documents en tràmit|	
 |[**iArxiu**][17] |Preservació i arxiu electrònic|	
 
-[17]:https://consorciaoc.github.io/iArxiu/
+[17]:https://github.com/ConsorciAOC/iarxiu_documentacio
 [6]:https://github.com/ConsorciAOC/DESA-L
 
 
