@@ -31,9 +31,12 @@
 |Servei|Descripció|
 |---|---|
 |[**Signador**][32] |Eina de signatura electrònica per a entorns web|
+|[**VÀLid**][34] |integrador de serveis d’identitat digital de Catalunya|
 
 
 [32]:https://consorciaoc.github.io/signador/
+[34]:https://consorciaoc.github.io/VALid/
+
 
 ----------------------------------------------------------------------
 
